@@ -1,6 +1,8 @@
-# Yabeda::[Faktory]
+# ![Yabeda::Faktory](./yabeda-faktory-logo.png)
 
 Built-in metrics for monitoring [Faktory worker for Ruby] out of the box! Part of the [yabeda] suite.
+
+For monitoring of [Faktory] server you will need to use separate solution, e.g. [faktory_exporter](https://github.com/lukasmalkmus/faktory_exporter/) for Prometheus.
 
 ## Installation
 
